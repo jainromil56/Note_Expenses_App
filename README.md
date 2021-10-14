@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![](Images/Note_Expenses.PNG)
 
-## Available Scripts
+## Steps to run locally
 
 In the project directory, you can run:
 
