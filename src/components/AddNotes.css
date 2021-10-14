@@ -1,0 +1,20 @@
+.container{
+    margin-top: 20px;
+}
+
+button{
+    margin: 10px 10px 0 0;
+}
+
+
+.form-group.invalid input{
+    border-color: red;
+}
+
+.form-group.invalid textarea{
+    border-color: red;
+}
+
+.form-group.invalid label{
+    color: red;
+}
