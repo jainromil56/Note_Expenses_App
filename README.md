@@ -1,5 +1,7 @@
 # Getting Started with Note Expenses App
 
+Click here to view app - <a href="https://notes-expenses.netlify.app/"> Notes Expenses App</a>
+
 This project is build with react.js and bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
